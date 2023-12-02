@@ -9,7 +9,7 @@ export async function getSimiliar(scrambledWord: string) {
 }
 
 async function readData(){
-  const fullPath = join('public', `wordlist.txt`)
+  const fullPath = join('./docs', `wordlist.txt`)
   const fileContents =  fs.readFileSync(fullPath, 'utf8').split('\n').filter(Boolean)
   return fileContents;
 }

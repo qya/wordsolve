@@ -79,7 +79,7 @@ export default function Home() {
   {Object.entries(words).map((item, index) => (
 
 <AccordionItem key={index} aria-label={item[0] + " Letters"} title={item[0] + " Letters"} className='text-black p-3 justify-center'>
-<div className="grid grid-cols-4 md:grid-cols-1 gap-2 content-around">
+<div className="grid grid-cols-4 sm:grid-cols-1 gap-2 content-around">
   {item[1].map((data:string, num:number) => (
 <div className="flex gap-1 w-fit" key={num}>
 

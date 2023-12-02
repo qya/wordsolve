@@ -1,13 +1,12 @@
 <div align="center">
   <img src="public/docs/logo-white.png" width="370px" height="80px" alt="logo" />
-  <h1>lox8.lol</h1>
-  <p>lolololololol.lol is a free confuser URL Website. <b>No login, no ads, no track!</b></p>
+  <h1>wow.ur.ws</h1>
+  <p>Words of Wonders ID letters analyzer</p>
 </div>
 
 ## Features
 
-- Trolling your URL into LOLOLOLOLOLOL
-^ yeah only that
+- Find Simmiliarity word from Indonesia Letters
 
 ## Screenshots
 

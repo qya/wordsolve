@@ -34,7 +34,7 @@ export default function Home() {
   }
   return (
     <main className="bg-black">
-    <div className='bg-black h-screen flex items-center justify-center'>
+    <div className='flex items-center justify-center'>
         <div className="rounded shadow-md w-full">
         <header className="flex items-center justify-center h-10 mb-6">
     <svg width={250} height={100} viewBox="0 0 350 71">

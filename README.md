@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/docs/logo-white.png" width="370px" height="80px" alt="logo" />
+  <img src="public/docs/logo-default.png" width="370px" height="80px" alt="logo" />
   <h1>wow.ur.ws</h1>
   <p>Words of Wonders ID letters analyzer</p>
 </div>
@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![ss 1](public/docs/ss.png)
+![ss 1](public/docs/screenshot.png)
 
 
 ## Tech Stack

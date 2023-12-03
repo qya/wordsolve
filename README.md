@@ -6,7 +6,7 @@
 
 ## Features
 
-- Find Simmiliarity word from Indonesia Letters
+- Find Similarity word from Indonesian Letters
 
 ## Screenshots
 
